@@ -101,7 +101,7 @@ object Base16384 {
 
     fun encodeToString(input: String): String {
         val encodedArray = encode(input)
-        return encodedArray.joinToString("") { it.toChar().toString() }
+        return encodedArray.joinToString("") { it.toInt().toChar().toString() }
     }
 
     fun decodeFromString(input: String): String {
