@@ -1,6 +1,6 @@
 # Base16384 for Kotlin
 
-A Kotlin implementation of Base16384 encoding and decoding, inspired by the TypeScript library [base16384.js](https://github.com/shigma/base16384.js). This library provides efficient encoding of binary data into Unicode characters and decoding it back to its original form.
+A Kotlin implementation of Base16384 encoding and decoding, inspired by the TypeScript library [base16384.js](https://github.com/shigma/base16384.js). 
 
 ## Features
 
@@ -9,7 +9,7 @@ A Kotlin implementation of Base16384 encoding and decoding, inspired by the Type
 
 ## Installation
 
-Include the library in your Kotlin project. (If publishing to a package manager like Maven Central or JitPack, update this section with relevant instructions.)
+Include the library in your Kotlin project.
 
 ## Usage
 
